@@ -1,5 +1,5 @@
 variant: fcos
-version: 1.0.0
+version: 3.4.0
 passwd:
   users:
     - name: admin
